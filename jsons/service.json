@@ -1,0 +1,53 @@
+[
+    {
+      "serviceName": "ייעוץ עסקי ראשוני",
+      "serviceDescription": "פגישת היכרות עם ניתוח ראשוני של מצב העסק, זיהוי אתגרים והמלצות ראשוניות להמשך.",
+      "price": 350,
+      "duration": 60,
+      "imagePath": "/images/services/consult_intro.jpg"
+    },
+    {
+      "serviceName": "ליווי עסקי חודשי",
+      "serviceDescription": "מסלול ליווי שוטף הכולל פגישות שבועיות, בניית תכנית עבודה מותאמת אישית ובקרה שוטפת.",
+      "price": 1800,
+      "duration": 240,
+      "imagePath": "/images/services/monthly_support.jpg"
+    },
+    {
+      "serviceName": "תכנית שיווק ומיתוג",
+      "serviceDescription": "בניית אסטרטגיית שיווק, ניתוח קהל יעד, יצירת שפה מיתוגית וחומרים פרסומיים.",
+      "price": 1200,
+      "duration": 180,
+      "imagePath": "/images/services/marketing_plan.jpg"
+    },
+    {
+      "serviceName": "הקמה וניהול תזרים מזומנים",
+      "serviceDescription": "הקמת תזרים מותאם אישית, בניית תחזיות, זיהוי חוסרים ואיזון כספי.",
+      "price": 900,
+      "duration": 120,
+      "imagePath": "/images/services/cashflow.jpg"
+    },
+    {
+      "serviceName": "הכנה לקבלת מימון מהבנק",
+      "serviceDescription": "איסוף מסמכים, בניית תכנית עסקית, הדרכה להצגה מול הבנק וליווי בהגשה.",
+      "price": 700,
+      "duration": 90,
+      "imagePath": "/images/services/bank_funding.jpg"
+    }
+  ,
+  
+    {
+      "serviceName": "ייעוץ משפטי",
+      "serviceDescription": "ייעוץ משפטי בנושאים עסקיים, חוזים, זכויות יוצרים ודיני עבודה.",
+      "price": 400,
+      "duration": 60,
+      "imagePath": "/images/services/legal_advice.jpg"
+    },
+    {
+      "serviceName": "הדרכת עובדים",
+      "serviceDescription": "סדנאות והדרכות לעובדים בנושאים שונים כמו שירות לקוחות, מכירות, ניהול זמן ועוד.",
+      "price": 800,
+      "duration": 120,
+      "imagePath": "/images/services/employee_training.jpg"
+    }
+  ]

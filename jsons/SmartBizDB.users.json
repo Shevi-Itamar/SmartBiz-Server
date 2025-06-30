@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a039"
+  },
+  "userPassword": "$2b$12$/pTg.ekBli68XvOjVtbDqukVBAUUPxHvu8Tgqy8pxaFHishOotmei",
+  "userName": "שרה כהן",
+  "userAddress": "הרב שך 12, בני ברק",
+  "userEmail": "sara.cohen@example.com",
+  "userPhone": "0541234567",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03a"
+  },
+  "userPassword": "$2b$12$6ZM.o/hLDC3.ATFXcVpwA.01BprT0V4JVgXN65vlvnk575qB8I/9u",
+  "userName": "יוסי לוי",
+  "userAddress": "החשמונאים 5, תל אביב",
+  "userEmail": "yossi.levi@example.com",
+  "userPhone": "0527654321",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03b"
+  },
+  "userPassword": "$2b$12$BoGdhv4IyQKuU6Wwr2sXEuenhma3uxtMNbFZ.6bsj62.VR//UQIKi",
+  "userName": "איילת מזרחי",
+  "userAddress": "שדרות ירושלים 101, אשדוד",
+  "userEmail": "ayelet.mizrahi@example.com",
+  "userPhone": "0539876543",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03c"
+  },
+  "userPassword": "$2b$12$wepVJ8RiIIOjqcZ7HVtLSeIUrAkybv7D1aMvB1B2BQZqKrkmmJ8KS",
+  "userName": "חיים פרידמן",
+  "userAddress": "הרצל 3, חיפה",
+  "userEmail": "chaim.friedman@example.com",
+  "userPhone": "0504567890",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03d"
+  },
+  "userPassword": "$2b$12$Y0fsaRs4Dx/GuFD0G16CX.Go4lVO9TWiYZwyhYs9aYxB0VZa/BQUe",
+  "userName": "דינה רוזנפלד",
+  "userAddress": "שנקר 22, פתח תקווה",
+  "userEmail": "m0533132756@gmail.com",
+  "userPhone": "0581239876",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03e"
+  },
+  "userPassword": "$2b$12$89EECIfVH1Ih8dGPk3thVeVn.4QekpAxPlY2Mgv9rNxdpPSybwr86",
+  "userName": "אבי שלום",
+  "userAddress": "העצמאות 10, נתניה",
+  "userEmail": "avi.shalom@example.com",
+  "userPhone": "0547896543",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a03f"
+  },
+  "userPassword": "$2b$12$l7pfCNL38wPkRhH.blpVGOdM53KZPw0HlUPw1y5hE4MeQKMRtHr2.",
+  "userName": "רותי כהן",
+  "userAddress": "הדקל 7, רמת גן",
+  "userEmail": "ruti.c@example.com",
+  "userPhone": "0529988776",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a040"
+  },
+  "userPassword": "$2b$12$9lFdU.2sXeFA6ZpSmV/VSOYqvnWwtJKg5.EQ9KPb9oDlHpn5Ro91K",
+  "userName": "משה בן דוד",
+  "userAddress": "דרך השלום 15, ירושלים",
+  "userEmail": "moshe.bendavid@example.com",
+  "userPhone": "0536677889",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a041"
+  },
+  "userPassword": "$2b$12$NOGDVtlH109T9ee7ENwli.uF9bb24DueHqMftBBny7MUEJe6cB4nC",
+  "userName": "נחמה קפלן",
+  "userAddress": "בן יהודה 8, תל אביב",
+  "userEmail": "nechama.kaplan@example.com",
+  "userPhone": "0583322114",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a042"
+  },
+  "userPassword": "$2b$12$MCsvX6hysm.E0/ikBYXBAuRokOZ2Hw9eGHHRGxKiSE00cKHvr5fkK",
+  "userName": "יואל רז",
+  "userAddress": "הפלמח 14, באר שבע",
+  "userEmail": "yoel.raz@example.com",
+  "userPhone": "0546655332",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a043"
+  },
+  "userPassword": "$2b$12$oTLX74ayiChG321MvCPc9.1qx.r0s5U2XcALnDAbJwOVx1IaqYwBy",
+  "userName": "אורית גל",
+  "userAddress": "החרוב 11, מודיעין",
+  "userEmail": "orit.gal@example.com",
+  "userPhone": "0502211447",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a044"
+  },
+  "userPassword": "$2b$12$FAVtUOu7Ghlj6HNZ7wfzsu0Jo6XAg7ttqdvf84aDBbF/ir5tKlpNe",
+  "userName": "נתן הלוי",
+  "userAddress": "הבנים 17, הרצליה",
+  "userEmail": "natan.halevi@example.com",
+  "userPhone": "0525566773",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a045"
+  },
+  "userPassword": "$2b$12$3NVNiY6uzXP1s4P5xk4O8OBY.c5e.kOH.rjHuXeFOfa6OFechhOeW",
+  "userName": "ציפי שחר",
+  "userAddress": "העמק 6, גבעתיים",
+  "userEmail": "tzippy.shachar@example.com",
+  "userPhone": "0534455666",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a046"
+  },
+  "userPassword": "$2b$12$cpt.sMzS/9b2HYHhcTC0QOaHMWRMZ5ywARpISp4uNCKcke.GBoRv.",
+  "userName": "אפרים שטרן",
+  "userAddress": "הנרקיס 9, אלעד",
+  "userEmail": "efraim.stern@example.com",
+  "userPhone": "0542323445",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "68456cc38645d66768c8a047"
+  },
+  "userPassword": "$2b$12$vuX1EjjPLPQpALeurI.a0eeZfGH0gAfpehXmgW7xSUdKXghrjm/Zu",
+  "userName": "לאה טל",
+  "userAddress": "החרמון 3, קרית גת",
+  "userEmail": "lea.tal@example.com",
+  "userPhone": "0523322110",
+  "role": "user"
+}]

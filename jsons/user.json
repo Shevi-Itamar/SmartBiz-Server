@@ -1,0 +1,108 @@
+[
+    {
+      "userPassword": "pass123456",
+      "userName": "שרה כהן",
+      "userAddress": "הרב שך 12, בני ברק",
+      "userEmail": "sara.cohen@example.com",
+      "userPhone": "0541234567"
+    },
+    {
+      "userPassword": "qwerty1234",
+      "userName": "יוסי לוי",
+      "userAddress": "החשמונאים 5, תל אביב",
+      "userEmail": "yossi.levi@example.com",
+      "userPhone": "0527654321"
+    },
+    {
+      "userPassword": "abcde67890",
+      "userName": "איילת מזרחי",
+      "userAddress": "שדרות ירושלים 101, אשדוד",
+      "userEmail": "ayelet.mizrahi@example.com",
+      "userPhone": "0539876543"
+    },
+    {
+      "userPassword": "zxcvb12345",
+      "userName": "חיים פרידמן",
+      "userAddress": "הרצל 3, חיפה",
+      "userEmail": "chaim.friedman@example.com",
+      "userPhone": "0504567890"
+    },
+    {
+      "userPassword": "pass098765",
+      "userName": "דינה רוזנפלד",
+      "userAddress": "שנקר 22, פתח תקווה",
+      "userEmail": "dina.rosen@example.com",
+      "userPhone": "0581239876"
+    },
+    {
+      "userPassword": "a1b2c3d4e5",
+      "userName": "אבי שלום",
+      "userAddress": "העצמאות 10, נתניה",
+      "userEmail": "avi.shalom@example.com",
+      "userPhone": "0547896543"
+    },
+    {
+      "userPassword": "mypassword1",
+      "userName": "רותי כהן",
+      "userAddress": "הדקל 7, רמת גן",
+      "userEmail": "ruti.c@example.com",
+      "userPhone": "0529988776"
+    },
+    {
+      "userPassword": "secure9876",
+      "userName": "משה בן דוד",
+      "userAddress": "דרך השלום 15, ירושלים",
+      "userEmail": "moshe.bendavid@example.com",
+      "userPhone": "0536677889"
+    },
+    {
+      "userPassword": "testuser12",
+      "userName": "נחמה קפלן",
+      "userAddress": "בן יהודה 8, תל אביב",
+      "userEmail": "nechama.kaplan@example.com",
+      "userPhone": "0583322114"
+    },
+    {
+      "userPassword": "alpha12345",
+      "userName": "יואל רז",
+      "userAddress": "הפלמח 14, באר שבע",
+      "userEmail": "yoel.raz@example.com",
+      "userPhone": "0546655332"
+    },
+    {
+      "userPassword": "pass112233",
+      "userName": "אורית גל",
+      "userAddress": "החרוב 11, מודיעין",
+      "userEmail": "orit.gal@example.com",
+      "userPhone": "0502211447"
+    },
+    {
+      "userPassword": "updown4321",
+      "userName": "נתן הלוי",
+      "userAddress": "הבנים 17, הרצליה",
+      "userEmail": "natan.halevi@example.com",
+      "userPhone": "0525566773"
+    },
+    {
+      "userPassword": "basic0001",
+      "userName": "ציפי שחר",
+      "userAddress": "העמק 6, גבעתיים",
+      "userEmail": "tzippy.shachar@example.com",
+      "userPhone": "0534455666"
+    },
+    {
+      "userPassword": "code456789",
+      "userName": "אפרים שטרן",
+      "userAddress": "הנרקיס 9, אלעד",
+      "userEmail": "efraim.stern@example.com",
+      "userPhone": "0542323445"
+    },
+    {
+      "userPassword": "passfinal12",
+      "userName": "לאה טל",
+      "userAddress": "החרמון 3, קרית גת",
+      "userEmail": "lea.tal@example.com",
+      "userPhone": "0523322110"
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "meetDate": "2025-06-16T09:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a040",
+      "serviceID": "684b4fa8ca8ace3e9ca370ab",
+      "userEmail": "sara.cohen@example.com"
+    },
+    {
+      "meetDate": "2025-06-16T10:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a041",
+      "serviceID": "684b4fa8ca8ace3e9ca370ae",
+      "userEmail": "avi.shalom@example.com"
+    },
+    {
+      "meetDate": "2025-06-16T11:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a043",
+      "serviceID": "684b4fa8ca8ace3e9ca370b0",
+      "userEmail": "ayelet.mizrahi@example.com"
+    },
+    {
+      "meetDate": "2025-06-16T12:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a044",
+      "serviceID": "684b4fa8ca8ace3e9ca370ad",
+      "userEmail": "ruti.c@example.com"
+    },
+    {
+      "meetDate": "2025-06-17T13:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a045",
+      "serviceID": "684b4fa8ca8ace3e9ca370ac",
+      "userEmail": "chaim.friedman@example.com"
+    },
+    {
+      "meetDate": "2025-06-17T14:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a046",
+      "serviceID": "684b4fa8ca8ace3e9ca370ae",
+      "userEmail": "yoel.raz@example.com"
+    },
+    {
+      "meetDate": "2025-06-17T15:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a047",
+      "serviceID": "684b4fa8ca8ace3e9ca370af",
+      "userEmail": "nechama.kaplan@example.com"
+    },
+    {
+      "meetDate": "2025-06-17T20:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a03c",
+      "serviceID": "684b4fa8ca8ace3e9ca370ab",
+      "userEmail": "moshe.bendavid@example.com"
+    },
+    {
+      "meetDate": "2025-06-18T09:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a03f",
+      "serviceID": "684b4fa8ca8ace3e9ca370b1",
+      "userEmail": "tzippy.shachar@example.com"
+    },
+    {
+      "meetDate": "2025-06-18T10:00:00.000Z",
+      "clientID": "68456cc38645d66768c8a042",
+      "serviceID": "684b4fa8ca8ace3e9ca370b0",
+      "userEmail": "efraim.stern@example.com"
+    }
+  ]
+  
