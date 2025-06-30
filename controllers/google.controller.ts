@@ -3,7 +3,7 @@ import { OAuth2Client } from 'google-auth-library';
 import usersService from '../services/users.service';
 import jwt from 'jsonwebtoken';
 
-const CLIENT_ID = process.env.GOOGLE_CLIENT_ID || 'YOUR_GOOGLE_CLIENT_ID'; // Replace with your actual Google Client ID
+const CLIENT_ID = process.env.GOOGLE_CLIENT_ID|| ''; // Replace with your actual Google Client ID
 const client = new OAuth2Client(CLIENT_ID);
 const SECRET = process.env.SECRET ||'';
 export const handleGoogleLogin = async (req: Request, res: Response) => {
